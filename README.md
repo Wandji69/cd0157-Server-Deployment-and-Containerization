@@ -88,3 +88,5 @@ Completing the project involves several steps:
 For more detail about each of these steps, see the project lesson.
 
 ## ELB 
+simple-jwt-api   LoadBalancer   10.100.86.112   a11a083d2ebe744b3987e0f8b1fbf8d1-1818181645.us-east-2.elb.amazonaws.com   80:31479/TCP   15m   app=simple-jwt-api
+
